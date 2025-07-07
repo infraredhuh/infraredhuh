@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://files.catbox.moe/f6msl8.jpg" width="100%" alt="infrared" />
+  <img src="https://files.catbox.moe/kjr0cd.png" width="100%" alt="infrared" />
 </p>
 
 <h1 align="center" style="color:#8b0000;">infrared</h1>
